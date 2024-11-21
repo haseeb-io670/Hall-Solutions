@@ -647,8 +647,9 @@ section {
 }
 
 .title {
+  font-weight: bold;
   font-size: 3em;
-  color: #ad8025;
+  color: black;
   margin-bottom: 20px;
 }
 
